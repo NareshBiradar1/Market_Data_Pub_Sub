@@ -1,0 +1,6 @@
+build/
+*.log
+spsc_correct_code.cpp
+.vscode/
+.idea/
+*.swp
